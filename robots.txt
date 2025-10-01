@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://practice-site.netlify.app/sitemap.xml
